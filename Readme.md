@@ -1,11 +1,11 @@
 # converTOO
 
-1. Converter arquivos .csv para arquivos html ou até pdf.
+Convertendo arquivos .csv para arquivos html e pdf.
 
-2. clone o repositório: `git clone https://github.com/jhonpedro/converTOO`
+1. clone o repositório: `git clone https://github.com/jhonpedro/converTOO`
 
-3. instalar as dependencias: `npm install`
+2. instalar as dependencias: `npm install`
 
-4. coloque o diretório do arquivo .csv na variável `filePath` em `app.js`
+3. coloque o diretório do arquivo .csv na variável `filePath` em `app.js`
 
-5. de um `npm run start` :)
+4. de um `npm run start` :)
